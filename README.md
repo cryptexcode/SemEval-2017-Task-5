@@ -6,9 +6,9 @@ This repository contains the source codes produced by **RiTUAL-UH** team for par
 > - Using alternative metrics that incorporates company informations, **RiTUAL-UH** ranked **1st** in both of the subtasks.
 
 #### For more Details
-[More Details of the task could be found in the Overview Paper.] [overview_paper]
+[More Details of the task could be found in the Overview Paper.](http://nlp.arizona.edu/SemEval-2017/pdf/SemEval089.pdf)
 
-[More Details about the system could be found in the System Description Paper.] [system_paper]
+[More Details about the system could be found in the System Description Paper.](http://sudiptakar.info/wp-content/uploads/2017/04/semeval-5.pdf)
 
 
 #### Directory Description
@@ -25,6 +25,3 @@ This repository contains the source codes produced by **RiTUAL-UH** team for par
 Sudipta Kar 
 email: skar3 AT uh DOT edu
 
-
-[system_paper]: <http://sudiptakar.info/wp-content/uploads/2017/04/semeval-5.pdf>
-[overview_paper]: <http://nlp.arizona.edu/SemEval-2017/pdf/SemEval089.pdf>
