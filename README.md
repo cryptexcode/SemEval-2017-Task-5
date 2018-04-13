@@ -8,7 +8,7 @@ This repository contains the source codes produced by **RiTUAL-UH** team for par
 #### For more Details
 [More Details of the task could be found in the Overview Paper.](http://nlp.arizona.edu/SemEval-2017/pdf/SemEval089.pdf)
 
-[More Details about the system could be found in the System Description Paper.](http://sudiptakar.info/wp-content/uploads/2017/04/semeval-5.pdf)
+[More Details about the system could be found in the System Description Paper.](http://sudiptakar.info/wp-content/uploads/2018/02/semeval2017task5.pdf)
 
 #### Bibtex to cite this paper
 ```
